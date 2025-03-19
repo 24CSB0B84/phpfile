@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
     <meta charset="UTF-8">
     <title>Visa Application System</title>
@@ -7,6 +6,9 @@
         body {
             font-family: Arial, sans-serif;
             max-width: 600px;
+            background-image: url('https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8dHJhdmVsfGVufDB8fDB8fHww');
+            background-size: cover;
+            background-position: center;
             margin: 20px auto;
             padding: 20px;
         }
